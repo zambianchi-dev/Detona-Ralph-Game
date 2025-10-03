@@ -54,4 +54,4 @@ Gostou do projeto? Me siga nas redes sociais para acompanhar a jornada e ver mai
 
 * **Instagram:** [@zambianchi.dev](https://instagram.com/zambianchi.dev)
 * **TikTok:** [@zambianchi.dev](https://www.tiktok.com/@zambianchi.dev)
-* **LinkedIn:** [Gabriel Zambianchi]([link-do-seu-linkedin](https://www.linkedin.com/in/gabriel-zambianchi/))
+* **LinkedIn:** [Gabriel Zambianchi](https://www.linkedin.com/in/gabriel-zambianchi/)
