@@ -1,3 +1,7 @@
+body {
+  cursor: url("../images/hammer.png"), auto;
+}
+
 .container{
     display: flex;
     flex-direction: column;
