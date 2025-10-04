@@ -18,21 +18,26 @@ Este projeto é um mini-game divertido do estilo "Whac-A-Mole", criado como part
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 🚀 Acessando o Projeto
 
-Este projeto é 100% front-end. Siga os passos abaixo:
+Você pode interagir com este projeto de duas formas:
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    ```
-2.  **Navegue até o diretório do projeto:**
-    ```bash
-    cd seu-repositorio
-    ```
-3.  Abra o arquivo `index.html` no seu navegador de preferência (Google Chrome, Firefox, etc.).
+### 1. Jogar Online (Recomendado)
 
-E pronto! O jogo estará funcionando na sua máquina.
+✨ A forma mais fácil e rápida de testar o jogo é acessando a versão ao vivo, hospedada gratuitamente com o GitHub Pages.
+
+👉 **[Clique aqui para jogar agora!](https://zambianchi-dev.github.io/Detona-Ralph-Game/)**
+
+*(Lembre-se de substituir pelo seu link do GitHub Pages)*
+
+### 2. Para Estudar e Modificar o Código
+
+Se você quer explorar o código-fonte, fazer suas próprias alterações ou estudá-lo em detalhes no VS Code, você pode obter os arquivos da seguinte forma:
+
+**Opção A: Clonando o Repositório (Requer Git)**
+
+```bash
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/zambianchi-dev/Detona-Ralph-Game.git)
 
 ---
 
