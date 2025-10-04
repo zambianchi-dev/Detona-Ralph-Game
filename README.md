@@ -28,17 +28,23 @@ Você pode interagir com este projeto de duas formas:
 
 👉 **[Clique aqui para jogar agora!](https://zambianchi-dev.github.io/Detona-Ralph-Game/)**
 
-*(Lembre-se de substituir pelo seu link do GitHub Pages)*
-
-### 2. Para Estudar e Modificar o Código
+2. Para Estudar e Modificar o Código
 
 Se você quer explorar o código-fonte, fazer suas próprias alterações ou estudá-lo em detalhes no VS Code, você pode obter os arquivos da seguinte forma:
 
-**Opção A: Clonando o Repositório (Requer Git)**
-
-```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/zambianchi-dev/Detona-Ralph-Game.git)
-
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/zambianchi-dev/Detona-Ralph-Game.git
+    ```
+2.  **Navegue até o diretório do projeto:**
+    ```bash
+    cd seu-repositorio
+    ```
+    
+3.  **Abra a pasta dos arquivos do jogo com algum editor de código da sua preferência (vs code).**
+    ```bash
+    E pronto! Já estara disponivel para você editar e fazer suas modificações e estudos.
+    ```
 ---
 
 ## 🧠 O Que Você Pode Aprender
@@ -59,4 +65,4 @@ Gostou do projeto? Me siga nas redes sociais para acompanhar a jornada e ver mai
 
 * **Instagram:** [@zambianchi.dev](https://instagram.com/zambianchi.dev)
 * **TikTok:** [@zambianchi.dev](https://www.tiktok.com/@zambianchi.dev)
-* **LinkedIn:** [Gabriel Zambianchi](https://www.linkedin.com/in/gabriel-zambianchi/)
+* **LinkedIn:** [Gabriel Zambianchi](link-do-seu-linkedin)
